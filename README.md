@@ -1,3 +1,3 @@
-# _kotlin_basicspractice
+# ***  kotlinbasicspractice ***
 
-Practice solutions for using the Kotlin language using [Peter Sommerhoffer's course] (https://www.udemy.com/course/kotlin-android/)on Udemy
+Practice solutions for using the Kotlin language in Peter Sommerhoffer's course on Udemy.
